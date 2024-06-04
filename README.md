@@ -1,16 +1,36 @@
-## Hi there 👋
+#  🧚🏾‍♀️ janneese
 
-<!--
-**janneese/janneese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`VR Enthusiast`**
 
-Here are some ideas to get you started:
+I'm a current MS in Data Analyst student at the University of Central Florida. I am interested in combining VR applications and language learning to create an immersive language learning environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+###  👾 Languages and Tools
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+<img align="left" alt="R" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+
+<img align = "left" alt = "C-sharp" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+
+<img align = "left" alt = "Visual Studio Code" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+
+
+<img align = "left" alt = "Unity" width = "30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+          
+          
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<br/>
+
+
+#
+
+### 📊 Stats
+
+![Janneese's GitHub stats](https://github-readme-stats.vercel.app/api?username=janneese&show_icons=true&theme=gruvbox)
+
+[linkedin](https://linkedin.com/in/janneese-palmer)
+
