@@ -2,7 +2,7 @@
 
 **`VR Enthusiast`**
 
-I'm a current MS in Data Analyst student at the University of Central Florida. I am interested in combining VR applications and language learning to create an immersive language learning environment.
+I'm a current MS in Computer Science student at the University of Central Florida. I am interested in combining VR applications and education methods to create immersive, effective learning environments.
 
 
 ---
