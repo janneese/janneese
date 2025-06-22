@@ -1,6 +1,6 @@
 # janneese palmer
 
-**`VR Enthusiast`**
+**`XR Enthusiast`**
 
 I'm a PhD Computer Science student at the University of Central Florida. I am interested in combining VR applications and education methods to create immersive, effective learning environments.
 
